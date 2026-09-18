@@ -1,13 +1,23 @@
 # Add comments before you do anything else.
 
 #!/usr/bin/env python3
-# Author:
-# Date:
+# Author: Tamanjyot Singh Sehgal
+# Date: 18/9/2026
 # Purpose: Create a variable, check its type and print the variable.
 # Usage: python3 lab1a.py
 
 # TO DO 1: Creating and using varibales
 # create a variable called message.
+message= "Welcome to PRG101"
+print(message)
+print(type(message))
+newstring=message+"Python is future"
+#print(message+"Python is future")
+print(newstring)
+x=10
+print(type(x))
+x="hello"
+print(type(x))
 # Set the variable to equal to "Welcome to PRG101".
 # Print the variable message using print() statement.
 
@@ -20,3 +30,4 @@
 # TO DO 4: Dynamic Typing: 
 # Now reassign a new value to the variable `x`, this value should be a string, e.g "hello", check the type of the variable `x` again.
 # What did you observe?
+#I OBSERVE THAT 
