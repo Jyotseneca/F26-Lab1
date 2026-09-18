@@ -28,6 +28,8 @@ print(type(x))
 # Create a varibel called `x` and assign it the value 10, then print the type of this variable.
 
 # TO DO 4: Dynamic Typing: 
-# Now reassign a new value to the variable `x`, this value should be a string, e.g "hello", check the type of the variable `x` again.
+# Now reassign a new value to the variable `x`, this value should be a string, e.g "hello", check the type of 
+# the variable `x` again.
 # What did you observe?
-#I OBSERVE THAT 
+#I OBSERVE THAT USING THE VARIABLES WE CAN CHANGE THE DATA TYPE. LIKE IN X WE CHANGED THE INTEGER TO A STRING,
+#  WHEN WE ASSIGN A NEW VALUE. 
