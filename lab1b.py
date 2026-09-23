@@ -17,7 +17,8 @@ print(type(num2 ))
 num1=int(num1)
 num2=int(num2)
 # TO-DO 2:
-# Perform all arithmetic oeprations as outlined in the description in README.md file, and print in the required format.
+# Perform all arithmetic oeprations as outlined in the description in README.md file, 
+#and print in the required format.
 print("num1+num2=" , num1+num2)
 print("num1-num2=" , num1-num2)
 print("num1*num2=" , num1*num2)
@@ -25,3 +26,6 @@ print("num1**num2=" , num1**num2)
 print("num1/num2=" , num1/num2)
 print("num1//num2=" , num1//num2)
 print("num1%num2=" , num1%num2)
+#in this section of teh lab, we have seen the different operators that python can operate it.
+#then we learned about the input() function, and give them random values of 5 and 20.
+#and also converted values using int(). 

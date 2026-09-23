@@ -2,8 +2,8 @@
 # Add comments before you do anything else.
 
 #!/usr/bin/env python3
-# Author:
-# Date:
+# Author:Tamanjyot Singh Sehgal 
+# Date:22/09/2026
 # Purpose: Use string methods and f-string formating.
 # Usage: python3 lab1d.py
 
