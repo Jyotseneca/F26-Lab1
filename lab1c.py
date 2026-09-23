@@ -17,3 +17,6 @@ r=input("Enter tehe radius: ")
 r=int(r)
 area=math.pi*r**2
 print("the area of the circle is:",area)
+#so in this section of the lab, I imported the math module. later we calculated the area 
+#of the circle. it only accept integer. Also I used the pi constraint when doing this
+#section
